@@ -1,0 +1,21 @@
+
+
+#adapt {height:248px;width:100%;border:1px solid #ccc;font:16px/17px Arial, Helvetica, sans-serif; color:#000;background-color:#efefef;min-width:640px}
+#adapt a{text-decoration:none;color:#1A395E;font-weight:bold}
+#adapt a:hover{color:#2b5d9a;}
+#adapt h6{font-size:13px;margin:0 0 0 6px}
+
+#adapt div {float:left;height: 214px;width:32%;margin: 4px 0 0 1%;}
+#adapt img {width: 100%;height: 100%; overflow: hidden;}
+
+
+
+@media (min-width:701px) and (max-width:999999px)   { 
+#adapt .foto{width:100%; height:140px; margin:0; text-align:center; background-color:#ccc}
+#adapt .texto{width:100%; height:64px; margin:4px 0 0;font:13px/14px Arial, Helvetica, sans-serif;}
+}
+
+@media  (min-width:100px) and (max-width:700px)  { 
+#adapt .foto{width:100%; height:100px; margin:10px 0; text-align:center; background-color:#ccc}
+#adapt .texto{width:100%; height:64px; margin:4px 0 0;font:13px/14px Arial, Helvetica, sans-serif;}
+}
