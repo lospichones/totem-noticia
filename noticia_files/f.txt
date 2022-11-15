@@ -41,7 +41,7 @@ Q&&(R.onload=Q);document.getElementsByTagName("head")[0].appendChild(R);if(M()){
   },
   "protocol": "https",
   "rawCss": ".gsc-control-cse{font-family:arial, sans-serif}.gsc-control-cse .gsc-table-result{font-family:arial, sans-serif}.gsc-refinementsGradient{background:linear-gradient(to left,rgba(255,255,255,1),rgba(255,255,255,0))}",
-  "cse_token": "AB1-RNWvtQQpWR15yfHs7Sq0ZDvU:1668404300463",
+  "cse_token": "AB1-RNUT0H6hUA6AP1v__Pq3mff-:1668467515832",
   "isHostedPage": false,
   "exp": ["csqr", "cc", "4861325"],
   "cselibVersion": "f275a300093f201a",
